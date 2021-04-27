@@ -1,0 +1,14 @@
+IMAGE	Police, Stats & Gangs	IMAGE
+
+TURNUPTHEHEAT = Increase Wanted Level Two Stars
+TURNDOWNTHEHEAT = Clear Wanted Level
+BTCDBCB = Fat
+BUFFMEUP = Max Muscle
+KVGYZQK = Skinny
+AEZAKMI = Never Wanted
+BRINGITON = Six Star Wanted Level
+WORSHIPME = Max Respect
+HELLOLADIES = Max Sex Appeal
+VKYPQCF = Max Stamina
+PROFESSIONALKILLER = Hitman In All Weapon Stats
+NATURALTALENT = Max All Vehicle Skill Stats
